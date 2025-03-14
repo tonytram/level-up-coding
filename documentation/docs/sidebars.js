@@ -34,32 +34,6 @@ module.exports = {
 				"guide/Instance",
 				"guide/Logging"
 			]
-		},
-		{
-			"type": "category",
-			"label": "Other",
-			"items": [
-				"other/FAQ",
-				"other/Maintained Versions",
-				"other/Version Requirements"
-			]
-		},
-		{
-			"type": "doc",
-			"id": "Community",
-			"label": "Community"
-		},
-		{
-			"type": "category",
-			"label": "Sponsored By",
-			"collapsed": false,
-			"items": [
-				{
-					"type": "link",
-					"label": " ",
-					"href": "https://dynobase.dev/?ref=dynamoose"
-				}
-			]
 		}
 	]
 };
